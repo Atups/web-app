@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://54.242.176.188:1500/repository/bankapp-release/</url>
+	      <url>http://54.147.220.38:1500/repository/wellsfargo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://54.242.176.188:1500/repository/bankapp-snapshot/</url>
+	      <url>http://54.147.220.38:1500/repository/wellsfargo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
